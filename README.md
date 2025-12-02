@@ -1,3 +1,6 @@
+Group Members: 
+Alex, Audrey, Karina, Sam 
+
 # Running Pace Prediction
 
 This project uses real Strava running logs from our own runs to analyze training behavior and build a model that predicts each person’s next run. The system forecasts both how far the next run will be and the pace that runner is likely to maintain.
