@@ -1,5 +1,5 @@
-Group Members: 
-Alex, Audrey, Karina, Sam 
+Contributors: 
+Alex Frederick, Audrey Meredith, Sam Ouyang, Karina Shah
 
 # Running Pace Prediction
 
